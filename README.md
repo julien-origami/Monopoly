@@ -5,4 +5,4 @@ Ceci est un projet de groupe réalisé en collaboration avec Thibault ROBERT, Am
 Au cours de ce projet nous avons pu aborder différents aspects techniques comme :
   * La programmation objet
   * Le développement d'interface avec swing
-  * La modéliastion UML
+  * La modélisation UML
